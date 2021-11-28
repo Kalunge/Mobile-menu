@@ -40,7 +40,25 @@ body {
 }
 
 #mobile {
-  background-color: white;
+  background-color: #000;
+}
+
+.cross {
+  padding-right: 2%;
+  padding-top: 2%;
+  margin-right: 5%;
+  margin-top: 5%;
+  color: white;
+}
+
+.list-menu {
+  margin-top: 15%;
+}
+
+.list-menu a {
+  color: white;
+  border-bottom: solid white 1px;
+  width: 100%;
 }
 
 #desktop-nav,
@@ -442,6 +460,10 @@ textarea {
   }
 
   .mobile-icon {
+    display: none;
+  }
+
+  .menu {
     display: none;
   }
 
