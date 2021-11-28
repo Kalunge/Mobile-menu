@@ -28,7 +28,7 @@ git clone https://github.com/Kalunge/mobile-menu.git
 
 - GitHub: [@kalunge](https://github.com/kalunge)
 - Twitter: [@kalunge](https://twitter.com/titus_muthomi)
-- LinkedIn: [kalunge](https://linkedin.com/in/titus_muthomi)
+- LinkedIn: [kalunge](https://www.linkedin.com/in/kalunge/)
 
 
 ## 🤝 Contributing
